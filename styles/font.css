@@ -1,0 +1,62 @@
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: 100;
+    src: url("../public/fonts/kalameh_thin.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: 200;
+    src: url("../public/fonts/kalameh_extraLight.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: 300;
+    src: url("../public/fonts/kalameh_light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: 400;
+    src: url("../public/fonts/kalameh_regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: 500;
+    src: url("../public/fonts/kalameh_medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: 600;
+    src: url("../public/fonts/kalameh_semibold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: 700;
+    src: url("../public/fonts/kalameh_bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: 800;
+    src: url("../public/fonts/kalameh_extraBold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: 900;
+    src: url("../public/fonts/kalameh_black.ttf") format("truetype");
+}
